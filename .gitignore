@@ -1,0 +1,28 @@
+# caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+# data & weights (never commit)
+checkpoints/
+*.ckpt
+*.pth
+*.pth.tar
+*.model
+data_current/
+dataset*/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+# results / logs / paper
+results/
+paper/
+logs/
+*.log
+lightning_logs/
+wandb/
+# editor / OS
+.idea/
+.vscode/
+.DS_Store

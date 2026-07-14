@@ -1,0 +1,12 @@
+torch>=2.0
+pytorch-lightning>=2.0
+mamba-ssm
+causal-conv1d
+timm
+segmentation-models-pytorch
+numpy
+scipy
+opencv-python
+scikit-image
+tqdm
+thop
